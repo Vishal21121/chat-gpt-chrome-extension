@@ -1,0 +1,11 @@
+{
+  "name": "chat-gpt",
+  "version": "1.0.0",
+  "description": "chat-gpt extension which is using chat-gpt api to answer questions",
+  "manifest_version": 3,
+  "author": "Vishal Singh",
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "chat-gpt"
+  }
+}

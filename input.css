@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: none
+}
+
+body {
+    background-color: #1b2932;
+}
+
+h1 img {
+    width: 110px;
+}
+
+header {
+    width: 350px;
+    font-weight: bold;
+}
+
+h1 {
+    color: rgb(216, 216, 216);
+    font-size: 16px;
+    padding: 20px;
+}
+
+hr {
+    height: 2px;
+    background-color: #cddce6;
+    width: 100%;
+}
+
+input {
+    background-color: #0f3a4f;
+    width: 300px;
+    height: fit-content;
+    margin: 10px;
+    border-radius: 10px;
+    outline: transparent;
+    color: white;
+    padding: 20px;
+}
+
+input::placeholder {
+    color: antiquewhite
+}
+
+#dataView{
+    margin: 20px;
+    padding: 20px;
+    background-color: #0f3a4f;
+    color: white;
+    border-radius: 10px;
+    height: fit-content;
+    max-height: 200px;
+    overflow-y: auto;
+}
+
+div img{
+    width: 50px;
+    height: 70px;
+    margin: 0px auto;
+}
